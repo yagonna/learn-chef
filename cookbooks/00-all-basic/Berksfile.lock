@@ -1,0 +1,7 @@
+DEPENDENCIES
+  system
+    path: .
+    metadata: true
+
+GRAPH
+  system (0.1.0)
