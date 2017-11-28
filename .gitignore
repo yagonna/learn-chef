@@ -9,3 +9,5 @@ bin/*
 
 .chef/
 chef-server/secrets/
+
+cookbooks/*/.kitchen
