@@ -1,7 +1,7 @@
 name 'learn_chef_apache2'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
-chef_version 'all'
+#chef_version 'all'
 license 'GPL v3'
 description 'Installs/Configures learn_chef_apache2'
 long_description 'Installs/Configures learn_chef_apache2'
