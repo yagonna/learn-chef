@@ -10,4 +10,16 @@ bin/*
 .chef/
 chef-server/secrets/
 
-cookbooks/*/.kitchen
+cookbooks/*/.kitchen/
+cookbooks/*/.kitchen.yml
+cookbooks/*/.kitchen.list.yml
+
+#cookbooks/00-all-basic/.kitchen.yml
+#cookbooks/linux-webserver-apache2/.kitchen.yml
+#cookbooks/linux-webserver-apache2/metadata.rb
+#cookbooks/linux-webserver-nginx/.kitchen.yml
+#cookbooks/linux-webserver-nginx/metadata.rb
+#cookbooks/linux-webserver-varnish/.kitchen.yml
+#cookbooks/linux-webserver-varnish/metadata.rb
+#cookbooks/linux-webserver/.kitchen.yml
+
